@@ -12,7 +12,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_chat_types: ^2.1.3
+  flutter_chat_types:
+    git:
+      url: "https://github.com/flyerhq/flutter_chat_types"
+      ref: "feature/move-to-author"
   flutter_linkify: ^5.0.2
   html: ^0.15.0
   http: ^0.13.3
