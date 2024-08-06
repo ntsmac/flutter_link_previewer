@@ -18,7 +18,7 @@ dependencies:
       url: https://github.com/ntsmac/flutter_chat_types.git
       ref: audio_message_types
 
-  flutter_linkify: ^6.0.0
+  flutter_linkify: ^5.0.2
   html: ^0.15.0
   http: ^1.2.0
   linkify: ^5.0.0
